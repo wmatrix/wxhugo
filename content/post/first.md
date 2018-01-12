@@ -11,4 +11,8 @@ tags = ["demo","test"]
 - bbb
 - ccc
 
-## Hello World!
+## Markdowm Usage
+
+使用markdowm的语法添加图片和引用的方法：
+
+![markdowm usage](/img/markdowm-hugo.png)
