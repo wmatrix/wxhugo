@@ -1,0 +1,2 @@
+# wxhugo
+hugo blog build
