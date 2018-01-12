@@ -1,6 +1,0 @@
-[submodule "public"]
-	path = public
-	url = ./public/.git
-[submodule "blackburn"]
-	path = blackburn
-	url = ./themes/blackburn/.git
